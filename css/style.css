@@ -1,0 +1,54 @@
+body {    
+    background-color: #FFFFFF;
+    text-align: -webkit-center;
+}
+
+div {
+    margin: 2px 0px 2px 0px;
+}
+
+div.search {    
+    width: 90%;
+    background-color: #EEEEEE; 
+    margin: 0 auto;       
+}
+
+div.misc {
+    font-size: small;
+    width: 90%;        
+    margin: 0 auto;
+}
+
+div.resources {
+    font-size: medium;
+    width: 36.7%; 
+    height: 86px;    
+    background-color: #7EE5DA;   
+    float: left;     
+}
+
+div.about {    
+    width: 19.5%;
+    height: 86px;
+    background-color: #70CCC2;
+    float: left;    
+    margin-left: 2px;
+}
+
+div.subscribe { 
+    width: 43.45%;   
+    height: 86px;
+    background-color: #62B3AA;    
+    margin-left: 2px;
+    float: left;
+}
+
+.footer {
+    margin-top: 100px;
+    width: 90%;
+    clear: left;
+}
+
+footer > p {
+    font-size: small;
+}
